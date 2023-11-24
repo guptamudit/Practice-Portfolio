@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Job Portal",
+    "description": "A completely working Job Portal created using MERN, TailwindCSS, with all the necessary functionalities and mobile responsiveness.",
+    "image": "/src/assets/jobportal.png",
+    "link": "https://github.com/guptamudit/Job-Portal"
+  },
+  {
+    "id": 2,
+    "name": "RESUME BUILDER",
+    "description": "A React Web Application which can be used to make Resume/CV.",
+    "image": "/src/assets/resumebuild2.png",
+    "link": "https://github.com/guptamudit/resume-builder"
+  },
+  {
+    "id": 3,
+    "name": "TWO GOOD CO.",
+    "description": "A Front - End Website made using HTML, CSS, JavaScript and GsapJs",
+    "image": "/src/assets/twogood.png",
+    "link": "https://github.com/guptamudit/Two-good-company"
+  }
+]
